@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="empList.css"?>
+<employees xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="empList.xsd">
+    <employee>
+        <name>John Doe</name>
+        <phones>
+            <phone type="home">123-456-7890</phone>
+            <phone type="work">987-654-3210</phone>
+            <phone type="mobile">555-555-5555</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Main Street</Street>
+                <BuildingNumber>123</BuildingNumber>
+                <Region>East</Region>
+                <City>Cityville</City>
+                <Country>Countryland</Country>
+            </address>
+        </addresses>
+        <email>john.doe@example.com</email>
+    <phone>123-456-7890</phone><address>Main Street, Cityville, Countryland</address></employee>
+    <employee>
+        <name>Nardine</name>
+        <phones>
+            <phone type="work">999-888-7777</phone>
+            <phone type="mobile">444-333-2222</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Second Street</Street>
+                <BuildingNumber>456</BuildingNumber>
+                <Region>West</Region>
+                <City>Townsville</City>
+                <Country>Countryland</Country>
+            </address>
+        </addresses>
+        <email>jane.smith@example.com</email>
+    <phone>01272259967</phone><address>Smouha2</address></employee>
+    
+    <employee>
+        <name>Merna Gamal</name>
+        <phones>
+            <phone type="work">01272259967</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Second Street</Street>
+                <BuildingNumber>456</BuildingNumber>
+                <Region>West</Region>
+                <City>Townsville</City>
+                <Country>Countryland</Country>
+            </address>
+        </addresses>
+        <email>merna140@gmail.cmo</email>
+    <phone>01272259967</phone><address>Gleem</address></employee>
+<employee><name>Malak</name><phone>01272259967</phone><address>Gleem</address><email>Malak140@gmail.cmo</email></employee></employees>

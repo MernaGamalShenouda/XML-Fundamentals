@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="empList.xsl"?>
+
+<employees>
+    <employee>
+        <name>John Doe</name>
+        <phones>
+            <phone type="home">123-456-7890</phone>
+            <phone type="work">987-654-3210</phone>
+            <phone type="mobile">555-555-5555</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Main Street</Street>
+                <BuildingNumber>123</BuildingNumber>
+                <Region>East</Region>
+                <City>Cityville</City>
+                <Country>Countryland</Country>
+            </address>
+        </addresses>
+        <email>john.doe@example.com</email>
+    </employee>
+    <employee>
+        <name>Nardine</name>
+        <phones>
+            <phone type="work">999-888-7777</phone>
+            <phone type="mobile">444-333-2222</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Second Street</Street>
+                <BuildingNumber>456</BuildingNumber>
+                <Region>West</Region>
+                <City>Townsville</City>
+                <Country>Countryland</Country>
+            </address>
+        </addresses>
+        <email>jane.smith@example.com</email>
+    </employee>
+    <employee>
+        <name>Merna Gamal</name>
+        <phones>
+            <phone type="work">01272259967</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Third Street</Street>
+                <BuildingNumber>789</BuildingNumber>
+                <Region>North</Region>
+                <City>Villagetown</City>
+                <Country>Countryland</Country>
+            </address>
+        </addresses>
+        <email>merna140@gmail.com</email>
+    </employee>
+</employees>
